@@ -11,7 +11,8 @@ const Middle = () => {
       <div className="absolute bottom-[-10%] right-[-10%] w-[40%] h-[40%] rounded-full bg-purple-600/20 blur-[120px]" />
 
       <div className="container relative z-10 mx-auto px-6 text-center">
-        
+          
+          
         {/* 2. Modern Pill Badge */}
         <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full border border-white/10 bg-white/5 backdrop-blur-md text-blue-400 text-xs font-medium mb-8 hover:border-blue-500/50 transition-all cursor-pointer">
           <Sparkles size={14} />
